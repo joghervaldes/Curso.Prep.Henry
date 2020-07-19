@@ -13,7 +13,8 @@
 	* Funciones (argumentos, `return`)
     Las funciones me prmiten agrupar y guardar codigo que voy a usar muchas veces
     para luego ivocarlo y ser ejecutado
-    los arguemtos son varialbes dentro de las funciones  
+    -los arguemtos son varialbes dentro de las funciones  
+    - la funcion return nos permite devolver valores afuera de la funcion 
 
 	* Declaraciones `if`
 	* Valores booleanos (`true`, `false`)
