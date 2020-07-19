@@ -3,10 +3,11 @@
     Las variables me permiten guardar algo en algun lugar que luego puedo recuperar, estas variables 
     tienen nombres en las que puedo asignar valores.
     ej: var nombre = 'jogher' 
-    la variable se llama "nombre" y contiene a 'jogher' que es loq ueaguarde en esa varible 
+    la variable se llama "nombre" y contiene a 'jogher' que es loq ueaguarde en esa varible. 
 
 	* Strings
-    Las Strings son caracteres o  hilos de caracteres que se definen en entre comillas, simples o dobles 
+    Las Strings son caracteres o hilos de caracteres que se definen en entre comillas,
+    simples o dobles. 
     ej: 'jogher' 
         '2'
 
@@ -14,7 +15,12 @@
     Las funciones me prmiten agrupar y guardar codigo que voy a usar muchas veces
     para luego ivocarlo y ser ejecutado
     -los arguemtos son varialbes dentro de las funciones  
-    - la funcion return nos permite devolver valores afuera de la funcion 
+    - la funcion return nos permite devolver valores afuera de la funcion. 
 
-	* Declaraciones `if`
+	* Declaraciones `if` 
+    permiten al control de flujo agregar logica al codigo haciendo distintas preguntas
+    y ejecutando  distintos codigos.
+
 	* Valores booleanos (`true`, `false`)
+    los valores booleanos funcionan como un codigo binario, tienen dos opciones que puede ser 0 o 1,
+    verdadero o falso.
