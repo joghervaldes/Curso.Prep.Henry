@@ -15,12 +15,12 @@
     Las funciones me prmiten agrupar y guardar codigo que voy a usar muchas veces
     para luego ivocarlo y ser ejecutado
     -los arguemtos son varialbes dentro de las funciones  
-    - la funcion return nos permite devolver valores afuera de la funcion. 
+    -Return nos permite devolver valores afuera de la funcion. 
 
 	* Declaraciones `if` 
-    permiten al control de flujo agregar logica al codigo haciendo distintas preguntas
-    y ejecutando  distintos codigos.
+    Es un condicional que permiten al control de flujo agregar logica al codigo
+    haciendo distintas preguntas y ejecutando  distintos codigos.
 
 	* Valores booleanos (`true`, `false`)
-    los valores booleanos funcionan como un codigo binario, tienen dos opciones que puede ser 0 o 1,
+    los valores booleanos funcionan como un codigo binario, tienen dos opciones que pueden ser 0 o 1,
     verdadero o falso.
