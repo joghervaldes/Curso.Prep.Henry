@@ -1,0 +1,19 @@
+
+	* Variables: 
+    Las variables me permiten guardar algo en algun lugar que luego puedo recuperar, estas variables 
+    tienen nombres en las que puedo asignar valores.
+    ej: var nombre = 'jogher' 
+    la variable se llama "nombre" y contiene a 'jogher' que es loq ueaguarde en esa varible 
+
+	* Strings
+    Las Strings son caracteres o  hilos de caracteres que se definen en entre comillas, simples o dobles 
+    ej: 'jogher' 
+        '2'
+
+	* Funciones (argumentos, `return`)
+    Las funciones me prmiten agrupar y guardar codigo que voy a usar muchas veces
+    para luego ivocarlo y ser ejecutado
+    los arguemtos son varialbes dentro de las funciones  
+
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
