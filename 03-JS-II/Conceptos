@@ -1,0 +1,15 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir
+rápidamente cualquier agujero en tu comprensión.
+
+for: 
+Es una de las expresiones de bucle de JavaScript que repite el bloque de codigo 
+en un numero prederterminado de veces  
+
+&&, ||, !:
+Son operadores logicos que nos proporcionan un resultado si la condicion establecida se cumple o no,
+prodcuen un resultado booleano que puede ser True o False. 
+*Operador && (and): para que el resultado sea True las dos condiciones deben ser verdaderas
+*Operador || (or): para que el resultad sea True alguna de las codiciones debe ser verdadera
+*operador ! (not): el resultado es lo opuesto a la condicion establecida
+
