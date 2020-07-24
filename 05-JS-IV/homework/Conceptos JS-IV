@@ -1,0 +1,24 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como
+ si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier
+agujero en tu comprensión.
+
+	* Objetos:
+    Los objetos son una coleccion de diferentes datos sobre una sola cosa, esta coleccion de datos 
+    se llaman propiedades.
+	* Propiedades: 
+    Las propiedades son los nombres de los datos asociados a un valor, estos nombres son la llave para
+    acceder a los valores. 
+	* Métodos:
+    los metodos son funciones guardadas dentro de un objeto al que llamamos usando notacion de puntos
+    y parecentisis finales.  
+
+	* Bucle `for…in`:
+    fnciona parecido al bulce for para los arrays salvo que en este establecemos una variable en parentsis 
+    con la palabra clave in y el nombre del objeto. Esto hara un recorrdo por todas las claves del objeto y
+    terminara de iterar con la ultima clave. 
+
+	* Notación de puntos vs notación de corchetes: 
+    la notacion de corchetes es similar a la de los arrays salvo que en esta se accede a las propiedades de un
+    objeto con corchetes y las comillas, haciendo mas extensa la escritura para acceder a los valores, en cambio 
+    la notacion de puntos hace que acceder a las propiedades de un objeto sea mas sensillo usando el nombre
+    del obejto, el . y el nombre de la propiedad (clave).   
