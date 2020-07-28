@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* prototype:
+Un prototype es propio de cada 'clase' y nos permiten no repetir metodos, una vez establecido
+el metodo es clonado por los nevos objetos que creamos en nuestra 'clase', compartiendo asi todos
+la misma funcion.
+
+* _Constructors_ (de Clases):
+los Constructors de Clases sirven para crear muchos objetos que comparten algunas de las mismas propiedades y
+metodos de la funcion constructora, como si de una categoria se tratase. estos bojetos se instancian con la
+keyword new.   
